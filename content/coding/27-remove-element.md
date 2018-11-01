@@ -35,7 +35,7 @@ It doesn't matter what values are set beyond the returned length.
 
 ## Thoughts
 
-Use two pointers, i from begin, j from end, if `nums[i] == val` and `nums[j] != val` we just swap them
+Use two pointers, i promotes from beginning to end, j promotes from end to beginning, if `nums[i] == val` and `nums[j] != val`, we just swap them in-place.
 
 ## Code
 
