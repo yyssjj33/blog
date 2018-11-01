@@ -1,0 +1,26 @@
+baseURL = "https://yyssjj33.github.io/"
+languageCode = "en-us"
+title = "Ji's place"
+theme = "kiera"
+
+paginate = 3
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+disqusShortname = "https-yyssjj33-github-io" #Disqus shortname
+googleAnalytics = "" #Google Analytics ID
+
+[author]
+    name = "Ji Yang"       #Author name
+    github = "yyssjj33"     #Github username
+    linkedin = "yangji1993"   #LinkedIn username
+    instagram = "paddleyyy"  #Instagram username
+
+[params]
+    tagline = "Coding && Cooking"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
