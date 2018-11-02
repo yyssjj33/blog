@@ -10,7 +10,7 @@ enableEmoji = true
 pygmentsCodeFences = true
 
 disqusShortname = "https-yyssjj33-github-io" #Disqus shortname
-googleAnalytics = "UA-113463619-1" #Google Analytics ID
+googleAnalytics = "" #Google Analytics ID
 
 enableRobotsTXT = true
 canonifyURLs = true
